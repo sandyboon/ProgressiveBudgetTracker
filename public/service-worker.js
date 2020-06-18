@@ -8,6 +8,7 @@ const FILES_TO_CACHE = [
   'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0',
   'https://cdn.jsdelivr.net/npm/chart.js@2.8.0',
   '/dist/manifest.json',
+  '/indexedDB.js',
 ];
 
 const CACHE_NAME = 'static-cache-v2';
