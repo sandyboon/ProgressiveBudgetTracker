@@ -3,7 +3,7 @@
 A progressive budget tracking web-app that works in offline mode as well. It uses service-worker, Index db to cached static file, api responses to provide smooth experience for user even when they have no connectivity.
 
 ![node](https://img.shields.io/node/v/latest?style=plastic)
-![code size](https://github.com/sandyboon/ProgressiveBudgetTracker)
+![code size](https://img.shields.io/github/languages/code-size/sandyboon/ProgressiveBudgetTracker)
 ![licenseInformation](https://img.shields.io/apm/l/vim-mode)
 
 ## Table of Contents
